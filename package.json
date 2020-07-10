@@ -1,0 +1,16 @@
+{
+  "name": "cy-eyes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@applitools/eyes-cypress": "^3.12.2",
+    "cypress": "^4.10.0"
+  }
+}
